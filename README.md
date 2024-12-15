@@ -14,13 +14,9 @@ I’m a newly graduated Front-End Developer with a keen interest in becoming a F
 
 #### 📈 My Goals:
 - To learn more about cloud services and how they can improve web app scalability.
-- To contribute to open source projects related to health and wellness as I have a strong interest in natural medicine.
-
+- Become a Full-Stack Developer.
 #### 📫 How to reach me:
 - **LinkedIn:** [Oddvar Zakarias Kristiansen](https://www.linkedin.com/in/oddvar-kristiansen-22b583262/)
 - **Email:** [oddvarzk@gmail.com](mailto:oddvarzk@gmail.com)
-
-#### 📊 My GitHub Stats:
-![Zakarias' GitHub Stats](https://github-readme-stats.vercel.app/api?username=oddvarzk&show_icons=true&theme=algolia)
 
 
