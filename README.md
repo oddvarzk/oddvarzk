@@ -1,4 +1,4 @@
-### Hei, I'm Zakarias 
+### Heihei
 
 Solo dev from Northern Norway, based in Oslo. I build things for the web and lately for the markets.
 
